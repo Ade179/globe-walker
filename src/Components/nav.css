@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background-color: #a50e63;
+  padding: 2rem;
+  color: aliceblue;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.globe {
+  display: flex;
+}
+
+.fa-globe {
+  font-size: 30px;
+}
+
+.header_logo {
+  display: flex;
+}
