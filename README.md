@@ -49,10 +49,10 @@ This is a mobile first web application that displays data of coins in cryptocurr
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Live-Demo
-> Here is a link () to the live page.
+> Here is a link (https://globetrot.netlify.app/) to the live page.
 
 # Live-Project-Presentation
-> Here is a link () to the live presentation video on loom.
+> Here is a link (https://www.loom.com/share/b2168422439f43d1a792b6787bad3380) to the live presentation video on loom.
 
 
 # 💻 Getting Started <a name="getting-started"></a>
