@@ -1,14 +1,12 @@
 .input {
   display: flex;
-  justify-content: center;
   background-color: #b9277c;
   padding-bottom: 4rem;
   padding-top: 1rem;
 }
 
 .useinput {
-  width: 50%;
+  width: 40%;
   padding: 5px;
-  border-radius: 60px;
   border: none;
 }
